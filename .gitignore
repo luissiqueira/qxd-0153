@@ -1,0 +1,8 @@
+.idea/
+*.o
+extra/
+in/
+*.saida
+*.out
+CMakeLists.txt
+main.cpp
